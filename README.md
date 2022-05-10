@@ -2,7 +2,7 @@
 
 ## MIS DATOS
 
-✔ Nombres: Marcos Mauricio
+✔ Nombres: Marcos Mauricio;
 ✔ Apellidos: Moreira Mala
 ✔ Estudiante de la EPN de la carrera de desarrollo de software
 ✔ Edad: 21 años
